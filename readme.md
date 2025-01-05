@@ -2,6 +2,8 @@
 
 Gran Combate is a text-based fighting game implemented in Python. The game allows players to create fighters with different attributes and schools, and then engage in a combat simulation.
 
+![Gran Combate!](gran_combate.gif "Gran Combate")
+
 ## Requirements
 
 - Python 3.x
